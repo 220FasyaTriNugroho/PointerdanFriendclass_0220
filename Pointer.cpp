@@ -17,8 +17,7 @@ int main()
 
 
     //reference
-    
-
+    int &d = b;
 
 
 
