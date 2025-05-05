@@ -18,7 +18,8 @@ int main()
 
     //reference
     int &d = b;
-
+    cout << "Nilai " << d << endl;
+    cout << "Reference " << &d << endl;
 
 
 
