@@ -2,13 +2,6 @@
 using namespace std;
 
 
-
-
-
-
-
-
-
 int main()
 {
     //dereference
@@ -23,11 +16,14 @@ int main()
     cout << "Nilai dari C : " << *c << endl;
 
 
-
-
-
-
-
-
+    //reference
     
+
+
+
+
+
+
+
+
 }
