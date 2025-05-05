@@ -3,7 +3,7 @@ using namespace std;
 
 class mahasiswa
 {
-    public:
+public:
     int nim;
     void showNim()
     {
@@ -13,5 +13,8 @@ class mahasiswa
 
 int main()
 {
+    mahasiswa mhs; // Object mhs
+    mhs.nim = 2024;
+    mhs.showNim(); // Member Access Operator
 
 }
